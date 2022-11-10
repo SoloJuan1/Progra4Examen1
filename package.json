@@ -1,0 +1,14 @@
+{
+  "name": "progra4examen1",
+  "version": "0.0.1",
+  "description": "\"Programacion 4 Examen 1 Aplicación de información de eventos\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Lagos",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.6.2"
+  }
+}
